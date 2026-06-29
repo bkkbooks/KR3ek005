@@ -1,0 +1,416 @@
+canonical_identifier: bkk:krp/KR3ek005/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek005/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科精義
+  identifiers:
+    krp: KR3ek005
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek005.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ek005_001-jc.yaml, hash: 'sha256:59aaf87f0ac2c35370ab20abea519ab59c6732ba793aadc544d863853c735883'}
+  - {seq: 3, filename: KR3ek005_003-jc.yaml, hash: 'sha256:ca74db4d0297d639f56d05a9f5dd1b897560970686523e7b1980f22160db9b38'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ek005_001-jc.markers.yaml, hash: 'sha256:f9e58a8ef487d93596f7867f2ad4fc1be473a56627ae8e4f48f7fdef0d3486a0'}
+  - {seq: 3, role: markers, filename: assets/KR3ek005_003-jc.markers.yaml, hash: 'sha256:3af87093f42478284c088c488fa1d9c260d8cc0841b0e0d4214c542f9c051417'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 15591
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 323
+  label: 論瘡腫診候入式法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d3
+    span:
+    - body
+    - 323
+    - 545
+  label: 論榮衛色脈參應之法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d4
+    span:
+    - body
+    - 545
+    - 932
+  label: 論持手訣消息法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d5
+    span:
+    - body
+    - 932
+    - 2558
+  label: 論三部所主臟腑病證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d6
+    span:
+    - body
+    - 2558
+    - 4001
+  label: 論脈證名狀二十六種所主病證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d7
+    span:
+    - body
+    - 4001
+    - 4508
+  label: 論三部脈所主證候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d8
+    span:
+    - body
+    - 4508
+    - 4851
+  label: 論三部脈所主雜病法訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d9
+    span:
+    - body
+    - 4851
+    - 5259
+  label: 論診候肺疽肺痿法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d10
+    span:
+    - body
+    - 5259
+    - 6071
+  label: 論將護忌慎法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d11
+    span:
+    - body
+    - 6071
+    - 6530
+  label: 論瘡疽腫虛實法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d12
+    span:
+    - body
+    - 6530
+    - 6787
+  label: 辨瘡腫淺深法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d13
+    span:
+    - body
+    - 6787
+    - 7239
+  label: 辨膿法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d14
+    span:
+    - body
+    - 7239
+    - 7787
+  label: 辨瘡疽癤腫證候法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d15
+    span:
+    - body
+    - 7787
+    - 8247
+  label: 辨瘡疽善惡法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d16
+    span:
+    - body
+    - 8247
+    - 8457
+  label: 砭鐮法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d17
+    span:
+    - body
+    - 8457
+    - 8843
+  label: 貼熁法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d18
+    span:
+    - body
+    - 8843
+    - 9033
+  label: 溻漬瘡腫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d19
+    span:
+    - body
+    - 9033
+    - 9460
+  label: 針烙瘡腫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d20
+    span:
+    - body
+    - 9460
+    - 9933
+  label: 灸療瘡腫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d21
+    span:
+    - body
+    - 9933
+    - 10195
+  label: 內消法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d22
+    span:
+    - body
+    - 10195
+    - 10435
+  label: 追蝕瘡疽腫法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d23
+    span:
+    - body
+    - 10435
+    - 10575
+  label: 托裡法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d24
+    span:
+    - body
+    - 10575
+    - 10748
+  label: 止痛法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d25
+    span:
+    - body
+    - 10748
+    - 11029
+  label: 用藥增損法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d26
+    span:
+    - body
+    - 11029
+    - 11686
+  label: 療瘡腫權變通類法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d27
+    span:
+    - body
+    - 11686
+    - 12279
+  label: 論五發疽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d28
+    span:
+    - body
+    - 12279
+    - 12561
+  label: 論癰疽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d29
+    span:
+    - body
+    - 12561
+    - 12919
+  label: 論附骨疽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d30
+    span:
+    - body
+    - 12919
+    - 13194
+  label: 論陰瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d31
+    span:
+    - body
+    - 13194
+    - 13682
+  label: 論時毒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d32
+    span:
+    - body
+    - 13682
+    - 13853
+  label: 論諸瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d33
+    span:
+    - body
+    - 13853
+    - 14172
+  label: 論疔瘡腫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d34
+    span:
+    - body
+    - 14172
+    - 14981
+  label: 辯疔腫十三種形色禁忌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d35
+    span:
+    - body
+    - 14981
+    - 15357
+  label: 論瘰癧治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek005_jc_001-d2d36
+    span:
+    - body
+    - 15357
+    - 15591
+  label: 論痔瘻
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek005_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14356
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek005_jc_003-d3d934
+    span:
+    - body
+    - 8907
+    - 12474
+  label: 劉守真瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek005_jc_003-d3d935
+    span:
+    - body
+    - 12474
+    - 14356
+  label: 論炮製諸藥及單方主療瘡腫法
+  type: section
+  level: 2
+hash: sha256:d4718c88966ab434c0755272d6b4fa37130c8679ffd513e165dece3ebfd9147e
