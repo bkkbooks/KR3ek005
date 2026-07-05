@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ek005_001.yaml, hash: 'sha256:2dacf9f30b7b8dc9c4937b7184aab61198d6090c13738d6a8f26449cf7ed2fea'}
-  - {seq: 3, filename: KR3ek005_003.yaml, hash: 'sha256:1e8e557c41961b7ae37318af5457031f06feb1eae69d196440cc0d59489665bc'}
+  - {seq: 1, filename: KR3ek005_001.yaml, hash: 'sha256:59aaf87f0ac2c35370ab20abea519ab59c6732ba793aadc544d863853c735883'}
+  - {seq: 3, filename: KR3ek005_003.yaml, hash: 'sha256:ca74db4d0297d639f56d05a9f5dd1b897560970686523e7b1980f22160db9b38'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ek005_001.markers.yaml, hash: 'sha256:fad692b372ae48019839f60c14a7f0f66d6d271cbfe9527ad625d814a2b44615'}
-  - {seq: 3, role: markers, filename: assets/KR3ek005_003.markers.yaml, hash: 'sha256:aaae98a8ec87133d9a0abe3d4edb2e23bd5e5d371a5d7d1d4163bf166a7bd422'}
+  - {seq: 1, role: markers, filename: assets/KR3ek005_001.markers.yaml, hash: 'sha256:ae1fc3ed95f7dfa50ac80fca944aa2f4a3ef6627bedac9cc80810e754f478a72'}
+  - {seq: 3, role: markers, filename: assets/KR3ek005_003.markers.yaml, hash: 'sha256:df951de08fc78a85ae7090b6292cdc504f85251ffb94acd4974ad8fbe9a5563c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -413,7 +413,4 @@ table_of_contents:
   label: 論炮製諸藥及單方主療瘡腫法
   type: section
   level: 2
-hash: sha256:d0118a4897cfcb5f621b5d2cd7548035ffb158d7a77f301b37e3791f65349eab
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5b719c4fb4587437549b4a421a2d9b0289eaded7db4b5d6698cb773a9a83ca17
