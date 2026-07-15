@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek005/v1
 canonical_location: https://kanripo.org/bkk/KR3ek005/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 外科精義
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ek005_001.yaml, hash: 'sha256:59aaf87f0ac2c35370ab20abea519ab59c6732ba793aadc544d863853c735883'}
-  - {seq: 3, filename: KR3ek005_003.yaml, hash: 'sha256:ca74db4d0297d639f56d05a9f5dd1b897560970686523e7b1980f22160db9b38'}
+  - {seq: 1, filename: KR3ek005_001.yaml, hash: 'sha256:bfb91cfef5813fc0a1fb82395f518a0fead1ff66d4060460d485bde2e40b6c05'}
+  - {seq: 3, filename: KR3ek005_003.yaml, hash: 'sha256:c461c40d68b77405171e06b30deaf8658ab3ef99da66ca64998b0b347ad1e37b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ek005_001.markers.yaml, hash: 'sha256:ae1fc3ed95f7dfa50ac80fca944aa2f4a3ef6627bedac9cc80810e754f478a72'}
-  - {seq: 3, role: markers, filename: assets/KR3ek005_003.markers.yaml, hash: 'sha256:df951de08fc78a85ae7090b6292cdc504f85251ffb94acd4974ad8fbe9a5563c'}
+  - {seq: 1, role: markers, filename: assets/KR3ek005_001.markers.yaml, hash: 'sha256:bab764ce64234c599157bfc570797a3f315b61da6de338cadc581e7d783dcb10'}
+  - {seq: 3, role: markers, filename: assets/KR3ek005_003.markers.yaml, hash: 'sha256:fc8b5b3e2d7d5e474633fc4e7c141c380260f4fa6142fca3f7d30851cd7cb7ec'}
 table_of_contents:
 - ref:
     seq: 1
@@ -413,4 +413,7 @@ table_of_contents:
   label: 論炮製諸藥及單方主療瘡腫法
   type: section
   level: 2
-hash: sha256:5b719c4fb4587437549b4a421a2d9b0289eaded7db4b5d6698cb773a9a83ca17
+hash: sha256:dc335f9ffc55a354d2f7b0175ddc7c5e53d085e624a58c661cb5af47fdb2e44b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
