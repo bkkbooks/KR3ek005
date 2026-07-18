@@ -21,7 +21,7 @@ assets:
   - {seq: 3, filename: KR3ek005_003-jc.yaml, hash: 'sha256:ca74db4d0297d639f56d05a9f5dd1b897560970686523e7b1980f22160db9b38'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ek005_001-jc.markers.yaml, hash: 'sha256:f9e58a8ef487d93596f7867f2ad4fc1be473a56627ae8e4f48f7fdef0d3486a0'}
-  - {seq: 3, role: markers, filename: assets/KR3ek005_003-jc.markers.yaml, hash: 'sha256:3af87093f42478284c088c488fa1d9c260d8cc0841b0e0d4214c542f9c051417'}
+  - {seq: 3, role: markers, filename: assets/KR3ek005_003-jc.markers.yaml, hash: 'sha256:6bb6444b162d51876dc9154f78ec7ce2c5a0c19894641103bf49c7287c6fe5e7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -413,4 +413,4 @@ table_of_contents:
   label: 論炮製諸藥及單方主療瘡腫法
   type: section
   level: 2
-hash: sha256:d4718c88966ab434c0755272d6b4fa37130c8679ffd513e165dece3ebfd9147e
+hash: sha256:98aea53cd22841a3d70fbd943e009f937ef44db2dc794b6077402245fd006c4b
